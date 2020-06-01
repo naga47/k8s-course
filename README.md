@@ -1,1 +1,1 @@
-# Kubernetes course
+K8s course
